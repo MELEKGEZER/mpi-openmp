@@ -70,6 +70,6 @@ Bu projede **MPI** ve **OpenMP**'nin paralel işlemdeki performans farklarını 
 
 ### YouTube Video Bağlantısı
 
-Projeyi nasıl çalıştıracağınızı ve performans farklarını daha detaylı bir şekilde anlatan videomuzu izlemek için aşağıdaki bağlantıyı ziyaret edebilirsiniz:
+Projeyi nasıl çalıştırdığımı daha detaylı bir şekilde anlatan videomu izlemek için aşağıdaki bağlantıyı ziyaret edebilirsiniz:
 
 [YouTube Videosu](<https://www.youtube.com/watch?v=ELmo7Iyo9ZY>)
