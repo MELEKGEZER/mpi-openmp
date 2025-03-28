@@ -68,12 +68,6 @@ Bu projede **MPI** ve **OpenMP**'nin paralel işlemdeki performans farklarını 
 
 ---
 
-## Lisans
-
-Bu proje, MIT Lisansı ile lisanslanmıştır. Detaylı bilgi için [LICENSE](LICENSE) dosyasına bakabilirsiniz.
-
----
-
 ### YouTube Video Bağlantısı
 
 Projeyi nasıl çalıştıracağınızı ve performans farklarını daha detaylı bir şekilde anlatan videomuzu izlemek için aşağıdaki bağlantıyı ziyaret edebilirsiniz:
